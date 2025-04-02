@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning  Mongodb and DSA<br>🤝  I'm open to collaborating on MERN projects.</p>
+<p align="left">📚 I'm currently learning DSA and working in a full stack project name mangaGo<br>🤝  I'm open to collaborating on MERN projects.</p>
 
 ###
 
